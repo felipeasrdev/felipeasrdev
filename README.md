@@ -11,9 +11,10 @@ Atualmente, trabalho com **Análise de Dados** 📊 e utilizo diversas tecnologi
 - 🐟 [AquaTilápia](https://play.google.com/store/apps/details?id=aquatilapia.ddpaseapi.rs.gov.br.aqua_tilapia&hl=en)
 - 🚑 [AquaHelp](https://play.google.com/store/apps/details?id=aquatilapia.ddpaseapi.rs.gov.br.aqua_tilapia&hl=en)
 
-## 🔬 Meu projeto mais recente:
+## 🔬 Meus projetos recentes:
 
 - 🎗️ [Painel OncoPed](https://dashoncologico.streamlit.app/): Um painel interativo para análise de dados oncológicos infantojuvenis.
+- 🎗️ [Triagemoncopediatrica](https://triagemoncopediatrica.web.app/): Um app para triagem de suspeitas de cancer infantojuvenil.
 
 ---
 
@@ -33,4 +34,5 @@ I currently work with **Data Analysis** 📊 and use various technologies for de
 ## 🔬 My latest project:
 
 - 🎗️ [Painel OncoPed](https://dashoncologico.streamlit.app/): An interactive dashboard for pediatric oncology data analysis.
+- 🎗️ [Triagemoncopediatrica](https://triagemoncopediatrica.web.app/): An App to Screen Childhood Cancer Concerns
 
